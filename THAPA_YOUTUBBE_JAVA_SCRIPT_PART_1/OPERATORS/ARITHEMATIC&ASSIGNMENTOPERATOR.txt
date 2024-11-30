@@ -1,0 +1,20 @@
+//Expression and Operator
+
+//Assignment operator
+
+var channel = "YouTubeChannel";
+// '=' is assignment operator
+
+// Arithematic Operator
+let a = 15;
+let b = 4;
+console.log(a + b); // addition
+console.log(a - b); // substraction
+console.log(a * b); // multiplication
+console.log(a / b); // division
+console.log(a % b); // modulus
+console.log(a ** b); // exponentiation
+console.log("hello" / 2); // NaN
+console.log(0.1 + 0.3); //0.4
+let x = 0.1 + 0.3;
+console.log(x.toFixed(3)); // TO FIXED output is 0.400

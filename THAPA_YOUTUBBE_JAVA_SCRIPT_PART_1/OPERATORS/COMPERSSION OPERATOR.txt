@@ -1,0 +1,9 @@
+// Compersion Operator
+let fVal = 10;
+let sVal = 20;
+let tVal = "10";
+console.log(fVal == sVal); // Equall To
+console.log(fVal == tVal); //
+console.log(fVal === tVal); // Strict Equall To
+console.log(fVal != tVal); // Not Equall To
+console.log(fVal !== tVal); // Strict Not Equall To

@@ -1,0 +1,28 @@
+// Data Type
+
+//Primitive Data Type
+var myName = "Harshit";
+console.log(myName);
+var favNumber = 8;
+console.log(favNumber);
+var isSportsman = true;
+console.log(isSportsman);
+var isStudent = false;
+console.log(isStudent);
+var isMarried = null;
+console.log(isMarried);
+var BigInt = 4271875442157454785758745747n;
+console.log(BigInt);
+console.log(typeof myName); // type of operator
+console.log(typeof null); // type  of null is object
+//convert a string to a number
+var num = "10";
+console.log(typeof num);
+var num = Number(num);
+var valueNum = "54";
+console.log(valueNum);
+var valueNum = parseFloat(valueNum);
+console.log(valueNum);
+console.log(parseInt("122", 25));
+console.log(NaN);
+console;

@@ -1,0 +1,14 @@
+//Logical operator
+var a = 10;
+var b = 20;
+var c = 30;
+var d = 40;
+
+console.log(a < b && b < c);
+console.log(a < b && b > c);
+console.log(a < b || b > c);
+console.log(a < b || b < c);
+console.log(a < b || b > c || c > d);
+console.log(a < b || (b > c && c > d));
+console.log((a < b && b > c) || c > d);
+console.log(a < b && (b > c || c > d));

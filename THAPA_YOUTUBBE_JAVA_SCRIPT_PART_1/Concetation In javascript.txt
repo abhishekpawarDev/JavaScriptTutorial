@@ -1,0 +1,12 @@
+//Concetation In javascript
+
+console.log("Hello" + " World");
+console.log(12 + "02");
+console.log(10 - "2");
+console.log("Abhishek" - "Pawar");
+console.log("" + "");
+console.log("" + 0);
+console.log(true + false);
+console.log(true + true);
+console.log(false + false);
+console.log(false - false);
